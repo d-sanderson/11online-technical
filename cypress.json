@@ -1,0 +1,12 @@
+{
+
+  "env": {
+    "wp_admin": "dsander",
+    "wp_pass": "test",
+    "wp_editor": "editor",
+    "site": {
+      "url": "http://cypresstestground.local/",
+      "path": "~/Local Sites/cypresstestground"
+    }
+  }
+}
